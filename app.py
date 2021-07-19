@@ -60,7 +60,7 @@ html_temp = """
    <div class="" style="background-color:black;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Digital Image processing Midterm 2</p></center> 
+   <center><p style="font-size:20px;color:white;margin-top:10px;">Digital Image processing RTU Final Practical</p></center> 
    </div>
    </div>
    </div>
